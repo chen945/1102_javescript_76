@@ -92,7 +92,19 @@ const sortByRichest = () => {
     updateDOM();
 };
 
+const calculateWealth = () => {
+    const wealth = data.reduce((total, user, index) => {
+        console.log("total user index", total, user, index);
+        return total + index;
+    }, 0);
+    main.innerHTML += `<h3>Total Wealth: <strong>${formatMoney(
+        wealth
+    )}</strong></h3>`;
+};
+updateDOM();
+
 addUserBtn.addEventListener("click", getRandomUser);
 doubleBtn.addEventListener("click", doubleMoney);
 showMillionariesBtn.addEventListener("click", showMillionaries);
 sortBtn.addEventListener("click", sortByRichest);
+calculateBtn.addEventListener("click", calculateWealth);
