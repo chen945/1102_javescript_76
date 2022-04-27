@@ -26,3 +26,6 @@
 
 [midprep]
 (https://github.com/chen945/1102_javescript_76/blob/main/exam/midprep/midprep_md/W09.md)
+
+[w09 模擬考連結]
+(https://github.com/chen945/1102_javescript_76/tree/main/exam/midprep)
