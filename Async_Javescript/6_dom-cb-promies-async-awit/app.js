@@ -1,22 +1,15 @@
 const heading1 = document.querySelector(".one");
 const heading2 = document.querySelector(".two");
-const heading3 = document.querySelector(".threee");
+const heading3 = document.querySelector(".threee"); //測試錯誤訊息
 const btn = document.querySelector(".btn");
 
-btn.addEventListener("click", async () => {
-    const result = await displayColor();
-    console.log("result", result);
+btn.addEventListener("click", () => {
+    addColor(heading1, 1000, "red").then(() =>
+        addColor(heading2, 2000, "green").then(() =>
+            addColor(heading3, 3000, "blue").catch((err) => console.log(err))
+        )
+    );
 });
-
-const displayColor = async () => {
-    try {
-        await addColor(heading1, 1000, "red");
-        await addColor(heading2, 2000, "green");
-        await addColor(heading3, 3000, "blue");
-    } catch (err) {
-        console.log(err);
-    }
-};
 
 const addColor = (element, time, color) => {
     return new Promise((resolve, reject) => {
