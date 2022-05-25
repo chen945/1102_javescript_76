@@ -18,6 +18,15 @@
 [W08-md]
 (https://github.com/chen945/1102_javescript_76/blob/main/md/w08/w08.md)
 
+[w12-md]
+(https://github.com/chen945/1102_javescript_76/blob/main/md/w12/w12.md)
+
+[w13-md]
+(https://github.com/chen945/1102_javescript_76/blob/main/md/w13/w13.md)
+
+[w14-md]
+(https://github.com/chen945/1102_javescript_76/blob/main/md/w14/w14.md)
+
 [HW1]
 (https://github.com/chen945/1102_javescript_76/blob/main/md/HW1-guess%20numbers/hw1.md)
 
