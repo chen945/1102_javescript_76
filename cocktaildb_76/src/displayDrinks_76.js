@@ -15,11 +15,7 @@ const displayDrinks = async ({ drinks }) => {
     }
     const newDrinks = drinks
         .map((drink) => {
-            const {
-                isDrinks: id,
-                strDrink: name,
-                strDrinkThumb: image,
-            } = drink;
+            const { idDrink: id, strDrink: name, strDrinkThumb: image } = drink;
             return `
         <a href="drink_76.html">
                 <article class="cocktail" data-id="${id}">
