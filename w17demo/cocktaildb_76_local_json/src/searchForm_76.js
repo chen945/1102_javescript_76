@@ -1,3 +1,4 @@
+import { hasNetwork, LOCAL_URL, searchItems } from "../api/search/config_76.js";
 import get from "./getElement.js";
 import presentDrinks from "./presentDrinks_76.js";
 
@@ -11,5 +12,11 @@ form.addEventListener("keyup", (e) => {
     console.log("input", input.value);
     const value = input.value;
     if (!value) return;
-    presentDrinks(`${baseURL}${value}`);
+    if (hasNetwork) {
+        presentDrinks(`${baseURL}${value}`);
+    } else {
+        if (searchItems.find((item) => item === value)) {
+            presentDrinks(`${LOCAL_URL}${value}.json`);
+        }
+    }
 });
