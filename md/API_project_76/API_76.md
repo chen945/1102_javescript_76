@@ -18,6 +18,14 @@
 
 ![](./s5.png)
 
+### S6:還是抓不到 api 資料，但有出現無此搜尋
+
+![](./s6.png)
+
+### S7: console.log 有抓到 data
+
+![](./s7.png)
+
 ---
 
 ### 自主學習
@@ -25,3 +33,5 @@
 ### A1 設置一個 Loading 的 gif，找到一個網站可以自己創立
 
 https://loading.io/?ref=techmoon
+
+### 解決問題

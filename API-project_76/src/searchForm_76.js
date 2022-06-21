@@ -4,7 +4,7 @@ import presentAlbums from "./presentAlbums_76.js";
 const form = get(".search-form");
 const input = get('[name="album"]');
 
-const baseURL = "https://theaudiodb.com/api/v1/json/2/album.php?m=215888";
+const baseURL = "https://theaudiodb.com/api/v1/json/2/album.php?m=2115888";
 
 form.addEventListener("keyup", (e) => {
     e.preventDefault();

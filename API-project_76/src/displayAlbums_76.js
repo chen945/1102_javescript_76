@@ -27,7 +27,7 @@ const displayAlbums = async ({ albums }) => {
         .join("");
     hideLoading();
     title.textContent = "";
-    section.innerHTML = newalbums;
+    section.innerHTML = newAlbums;
     return section;
 };
 
