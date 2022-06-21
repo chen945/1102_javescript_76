@@ -1,0 +1,61 @@
+a34e3ce	chen945	Tue Jun 21 23:18:57 2022 +0800	API-project last log & pdf
+f0fb7dc	chen945	Tue Jun 21 23:11:37 2022 +0800	S8: local 讀取，下載圖片，並改根目錄
+f97babc	chen945	Tue Jun 21 23:06:22 2022 +0800	S7: console.log 有抓到 data
+8cd41c7	chen945	Tue Jun 21 22:31:20 2022 +0800	S5:確認有抓到 data 出現 config_76.js
+f5ccc9a	chen945	Tue Jun 21 22:26:47 2022 +0800	S4:改寫老師上課的 demo js
+b172c5a	chen945	Tue Jun 21 22:24:54 2022 +0800	S3:創 src/api/search 中的 3 個 data
+086f046	chen945	Tue Jun 21 17:42:18 2022 +0800	S2:建立一個js檔(API DATA)
+b58c9bb	chen945	Tue Jun 21 17:38:35 2022 +0800	自主學習A1-自己設立loading的gif(網站資訊)
+2fb1312	chen945	Tue Jun 21 17:35:16 2022 +0800	API-theme
+bf25a2b	chen945	Tue Jun 21 17:10:27 2022 +0800	w17 last log & pdf
+234a7b6	chen945	Tue Jun 21 17:07:37 2022 +0800	 w17-p4: do Week 4 classdemo for menu theme
+337cad7	chen945	Tue Jun 21 16:02:27 2022 +0800	### w17-p3: search items that is available in searchItems array
+6137b61	chen945	Tue Jun 21 15:51:58 2022 +0800	w17-p2: fetch a local json data with local images
+7601cf0	chen945	Tue Jun 21 15:34:40 2022 +0800	### w17-p1: fetch local json data when hasNetwork=false
+7922992	chen945	Sun Jun 19 23:52:31 2022 +0800	w16 last log & pdf
+f6c37a9	chen945	Sun Jun 19 23:49:32 2022 +0800	w16-p2: finish addItems for Grocery demo
+2cc71d6	chen945	Sun Jun 19 23:00:17 2022 +0800	w16-p1: finish displaySingleDrink_xx.js
+f16da13	chen945	Sun Jun 19 22:21:50 2022 +0800	w15 last log & pdf
+134c5b3	chen945	Sun Jun 19 22:18:36 2022 +0800	w15-p3: Get drink info based on data-id, and show the data
+6ee12d5	chen945	Sun Jun 19 21:13:24 2022 +0800	w15-p2: Get data-id of a drink, save to local storage
+9a7a9da	chen945	Thu Jun 16 16:33:01 2022 +0800	w15-p1: finish search form
+207ca8a	chen945	Wed May 25 21:38:58 2022 +0800	w14 PDF
+1a80494	chen945	Wed May 25 21:37:56 2022 +0800	w14 last-log
+ec1c206	chen945	Wed May 25 21:36:28 2022 +0800	w13-p5-2: let loading.gif show first, remove loading.gif in order to show all drinks
+6d0d518	chen945	Wed May 25 21:33:13 2022 +0800	w13-p5-1: let loading.gif show first, remove loading.gif if no drinks matched
+f0d9d07	chen945	Wed May 25 21:11:12 2022 +0800	w14-p4: fetch drinks from given url, and display all drinks
+31893b4	chen945	Wed May 25 20:52:40 2022 +0800	w14-p3: fetch drinks, get null, show no drinks matched
+ab91b16	chen945	Wed May 25 20:22:53 2022 +0800	w14-p2: fetch data from given url
+4335c8a	chen945	Wed May 25 19:23:08 2022 +0800	w14-p1: use create html themne for Cocktail API demo
+389a274	chen945	Wed May 18 21:38:54 2022 +0800	w13-p5:自主練習
+a9c796e	chen945	Wed May 18 20:55:50 2022 +0800	w13-p4: use async/await to get people.json, and show it on webpage
+e2de7da	chen945	Wed May 18 20:38:02 2022 +0800	w13-p3: use fetch api to get people.json, and show it on webpage
+b5d61ef	chen945	Wed May 18 19:56:29 2022 +0800	w13-p2: use xhr object to get people.json, and show it on webpage
+88e5afc	chen945	Wed May 18 19:06:53 2022 +0800	w13-p1: use xhr object to get sample.txt, and show it on webpage
+fab2379	chen945	Wed May 11 21:42:17 2022 +0800	w12-P5 fetch people.json with 4 data shown on console, change name to people2.json will result in error
+1310cbe	chen945	Wed May 11 21:02:56 2022 +0800	w12-P4 use async /await for w12-P3
+dafffe4	chen945	Wed May 11 20:28:43 2022 +0800	 w12-P3 use promise addColor(element,time,color) to solve-call back hell in w12-P2
+1b9a299	chen945	Wed May 11 19:44:45 2022 +0800	w12-P2  DOM call-back functions demo -- colors change from red (1s), green (2s), blue (1s)
+5403b11	chen945	Wed May 11 19:28:05 2022 +0800	W12-P1: Making soup demo for Async JavaScript with log info
+94bc10c	chen945	Wed May 11 19:09:56 2022 +0800	w12 Async_javescript file
+82a55ab	chen945	Wed Apr 27 16:44:14 2022 +0800	add midter.md & pdf
+6b9b7d8	chen945	Wed Apr 27 16:38:40 2022 +0800	放入w09考試連結
+3124697	chen945	Wed Apr 27 16:36:50 2022 +0800	remote README.md
+57420a6	chen945	Wed Apr 20 21:15:43 2022 +0800	p4: tku60 demo
+f4fdaa4	chen945	Wed Apr 20 20:02:21 2022 +0800	P3: w09 midprep p2_xx answer
+906f363	chen945	Wed Apr 20 19:45:12 2022 +0800	midprep p1_xx answer
+f569466	chen945	Wed Apr 20 19:36:39 2022 +0800	w09 midprep start
+25f49b5	chen945	Thu Apr 14 18:10:54 2022 +0800	add w08md pdf
+ba9c062	chen945	Thu Apr 14 18:08:49 2022 +0800	W08-P5: Count wealth total for all users money
+a84cf57	chen945	Thu Apr 14 17:25:13 2022 +0800	w08-P4: trace total using offline W3School
+98cd114	chen945	Thu Apr 14 16:50:19 2022 +0800	### W08-P3: SortByRichest
+b115535	chen945	Thu Apr 14 16:46:08 2022 +0800	add w08 md link in README.md (v2)
+56e7ff0	chen945	Thu Apr 14 16:42:25 2022 +0800	add w08 md link in README.md
+e543572	chen945	Wed Apr 13 21:48:46 2022 +0800	P1: getUsers(), changeBtnText() for Week 06
+5b223d3	chen945	Wed Apr 13 20:07:51 2022 +0800	add class-md
+bb851ae	chen945	Wed Apr 13 20:06:37 2022 +0800	omnifood_76
+033c130	chen945	Wed Apr 13 20:05:46 2022 +0800	menu-starter-76
+ba7cedf	chen945	Wed Apr 13 20:04:50 2022 +0800	guess-starter-76
+619b59b	chen945	Wed Apr 13 20:03:40 2022 +0800	w02-classdemo-view
+223b069	chen945	Wed Apr 13 20:02:30 2022 +0800	w01-class-demo_tictactoe
+c68139a	chen945	Wed Apr 13 20:00:04 2022 +0800	Initial commit
