@@ -14,8 +14,7 @@
             strLabel: "Republic Records",
             strReleaseFormat: "Album",
             intSales: "0",
-            strAlbumThumb:
-                "https://www.theaudiodb.com/images/media/album/thumb/house-of-balloons-4ee693d4138bb.jpg",
+            strAlbumThumb: "/images/house-of-balloons-4ee693d4138bb.jpg",
             strAlbumThumbHQ: null,
             strAlbumThumbBack: null,
             strAlbumCDart: null,

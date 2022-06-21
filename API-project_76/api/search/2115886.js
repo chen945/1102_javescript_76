@@ -14,8 +14,7 @@
             strLabel: "Republic Records",
             strReleaseFormat: "Album",
             intSales: "0",
-            strAlbumThumb:
-                "https://www.theaudiodb.com/images/media/album/thumb/thursday-4ee69293cd094.jpg",
+            strAlbumThumb: "/images/thursday-4ee69293cd094.jpg",
             strAlbumThumbHQ: null,
             strAlbumThumbBack: null,
             strAlbumCDart: null,
