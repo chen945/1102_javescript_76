@@ -6,6 +6,10 @@
 
 ![](./s2.png)
 
+### S3:創 src/api/search 中的 3 個 data
+
+![](./s3.png)
+
 ---
 
 ### 自主學習

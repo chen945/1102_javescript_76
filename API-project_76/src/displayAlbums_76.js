@@ -9,7 +9,7 @@ const displayAlbums = async ({ albums }) => {
     console.log("section", section);
     if (!albums) {
         hideLoading();
-        title.textContent = "Sorry, no drinks matched your search";
+        title.textContent = "Sorry, no albums matched your search";
         section.innerHTML = null;
         return;
     }
@@ -17,18 +17,17 @@ const displayAlbums = async ({ albums }) => {
         .map((album) => {
             const { idAlbum: id, strAlbum: name, strAlbumThumb: image } = album;
             return `
-      
                 <article class="cocktail" data-id="${id}">
                     <img src="${image}" alt="cocktail" />
                     <h3>${name}</h3>
                 </article>
-        
+            </a>
         `;
         })
         .join("");
     hideLoading();
     title.textContent = "";
-    section.innerHTML = newAlbums;
+    section.innerHTML = newalbums;
     return section;
 };
 
